@@ -1,0 +1,32 @@
+a{vertical-align:baseline;text-overflow:clip;}
+a,a:link{text-decoration:none;}
+a,a>*{color:inherit;}
+
+a,a:link img{border:0 solid transparent;}
+
+a:link{
+	
+	border-bottom: 1px solid #;
+ -webkit-transition: color 0.25s ease-out;
+ -moz-transition: color 0.25s ease-out;
+ -o-transition: color 0.25s ease-out;
+ transition: color 0.25s ease-out;
+ 
+   color:#; text-shadow: 0 0 5px #; 
+ 
+}
+
+a:visited,
+a:link:hover{
+ text-decoration:none;
+ border-bottom-color: #;
+}
+a:visited{color:#;}
+
+a:link:hover,
+a:visited:hover{color:#;}
+
+
+a.current{pointer-events:none;cursor:default;}
+a:link.current{color:#;border-bottom-color:#;}
+
