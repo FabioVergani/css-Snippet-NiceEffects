@@ -1,0 +1,17 @@
+#play, input[type="submit"] {
+    border-radius: 4px;
+    padding: 8px 18px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #F0F1FF;
+    font-size: 23px;
+    max-width: 220px;
+    display: block;
+    margin: 0 auto;
+    text-shadow: #043800 0 1px 2px,#15bd22 0 1px 5px,#017313 -1px 1px 8px,#01730a 2px 1px 2px;
+    box-shadow: #000 0 1px 5px,inset #5ae239 0 1px 0;
+    border: 1px solid #027300;
+    background: -webkit-linear-gradient(top,#1fa530,#0b821a);
+    background: -moz-linear-gradient(top,#1fa530,#0b821a);
+    background: linear-gradient(top,#1fa530,#0b821a);
+}
